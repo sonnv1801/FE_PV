@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/FE_PV/static/css/main.713e7b4d.css",
+    "main.js": "/FE_PV/static/js/main.2cca9fab.js",
+    "static/js/787.cda612ba.chunk.js": "/FE_PV/static/js/787.cda612ba.chunk.js",
+    "index.html": "/FE_PV/index.html",
+    "main.713e7b4d.css.map": "/FE_PV/static/css/main.713e7b4d.css.map",
+    "main.2cca9fab.js.map": "/FE_PV/static/js/main.2cca9fab.js.map",
+    "787.cda612ba.chunk.js.map": "/FE_PV/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.713e7b4d.css",
+    "static/js/main.2cca9fab.js"
+  ]
+}
